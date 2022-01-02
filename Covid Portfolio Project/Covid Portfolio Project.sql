@@ -79,7 +79,7 @@ From PortfolioProject..CovidDeaths dea
 INNER JOIN PortfolioProject..CovidVaccinations vac
 On dea.location = vac.location
 and dea.date = vac.date
-where dea.continent is not null --and dea.location like '%canada%'
+where dea.continent is not null
 order by 2,3
 
 -- Rolling Count of Total Vaccinations
