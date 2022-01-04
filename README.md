@@ -5,7 +5,7 @@
 https://public.tableau.com/app/profile/jonathan.t3581/viz/CovidProjectasofDecember4th/Dashboard1?publish=yes
 
 # DataCleaning Folder
--Shows data cleaning capabilities with Nashville Housing dataset
+-Shows data cleaning capabilities in SQL with Nashville Housing dataset
 
 
 # Toronto Airbnb Project
