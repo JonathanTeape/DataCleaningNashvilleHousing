@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/jonathan.t3581/viz/CovidProjectasofDecemb
 -Shows Data Cleaning capabilities with Nashville Housing dataset
 
 
-#Toronto Airbnb Project
+# Toronto Airbnb Project
 
 -Data is extracted fromhttp://insideairbnb.com/get-the-data.html
 -Tableau Dashboard is available at :
