@@ -1,15 +1,7 @@
-# Covid Portfolio Project
--Data is extracted from https://ourworldindata.org/covid-deaths as of December 4th 2021
 
--Tableau Dashboard is available at :
-https://public.tableau.com/app/profile/jonathan.t3581/viz/CovidProjectasofDecember4th/Dashboard1?publish=yes
+# Data Cleaning With Nashville Dataset
 
-# DataCleaning Folder
--Shows data cleaning capabilities in SQL with Nashville Housing dataset
+Datasets often come with inconsistencies, irrelevant values, or incomplete data. Therefore, having clean data will encourage sound, strategic decisions, and overall better efficiency. This project looks at how data can be cleaned in SQL using the Nashville Housing Dataset.
 
-
-# Toronto Airbnb Project
--Data is extracted fromhttp://insideairbnb.com/get-the-data.html
-
--Tableau Dashboard is available at :
-https://public.tableau.com/app/profile/jonathan.t3581/viz/TorontoAirBNBProject/Dashboard1?publish=yes
+#Getting Started
+Save the data set Nashville Housing Data for Data Cleaning.xlsx in your local directory. Open SQL
